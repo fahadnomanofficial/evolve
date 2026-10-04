@@ -133,7 +133,7 @@
   },
   {
     "url": "/online-shop/",
-    "title": "Online shop"
+    "title": "Find your finishing touch"
   },
   {
     "url": "/basket/",
@@ -154,5 +154,613 @@
   {
     "url": "/404/",
     "title": "Page not found"
+  },
+  {
+    "url": "/shop/",
+    "title": "The product catalogue"
+  },
+  {
+    "url": "/product-category/paint/exterior/4-seasons-acrylic/",
+    "title": "4 Seasons Acrylic External"
+  },
+  {
+    "url": "/product-category/paint/exterior/4-seasons-acrylic/4-seasons-acrylic-external-dark2/",
+    "title": "4 Seasons Acrylic External Dark Muted Colours"
+  },
+  {
+    "url": "/product-category/paint/exterior/4-seasons-acrylic/4-seasons-acrylic-external-dark/",
+    "title": "4 Seasons Acrylic External Dark Vivid Colours"
+  },
+  {
+    "url": "/product-category/paint/exterior/4-seasons-acrylic/4-seasons-acrylic-external-light/",
+    "title": "4 Seasons Acrylic External Light Colours"
+  },
+  {
+    "url": "/product-category/paint/exterior/4-seasons-acrylic/4-seasons-acrylic-external-medium/",
+    "title": "4 Seasons Acrylic External Medium Colours"
+  },
+  {
+    "url": "/product-category/paint/exterior/4-seasons-elastic/",
+    "title": "4 Seasons Elastic External"
+  },
+  {
+    "url": "/product-category/uncategorised/accessories/",
+    "title": "Accessories"
+  },
+  {
+    "url": "/product-category/wallpaper/cashual-chic/",
+    "title": "Cashual Chic"
+  },
+  {
+    "url": "/product-category/wallpaper/elle-decorations-3/",
+    "title": "Elle Decorations 3"
+  },
+  {
+    "url": "/product-category/paint/exterior/",
+    "title": "Exterior Paint Malta"
+  },
+  {
+    "url": "/product-category/wallpaper/fashion-for-walls/",
+    "title": "Fashion For Walls"
+  },
+  {
+    "url": "/product-category/wallpaper/focus/",
+    "title": "Focus"
+  },
+  {
+    "url": "/product-category/paint/interior/",
+    "title": "Interior Paint Malta"
+  },
+  {
+    "url": "/product-category/paint/",
+    "title": "Kraft Paint Malta"
+  },
+  {
+    "url": "/product-category/paint/interior/master-eco-internal/",
+    "title": "Master Eco Internal"
+  },
+  {
+    "url": "/product-category/paint/interior/master-eco-internal/master-eco-internal-dark2/",
+    "title": "Master Eco Internal Dark Muted Colours"
+  },
+  {
+    "url": "/product-category/paint/interior/master-eco-internal/master-eco-internal-dark/",
+    "title": "Master Eco Internal Dark Vivid Colours"
+  },
+  {
+    "url": "/product-category/paint/interior/master-eco-internal/master-eco-internal-light/",
+    "title": "Master Eco Internal Light Colours"
+  },
+  {
+    "url": "/product-category/paint/interior/master-eco-internal/master-eco-internal-medium/",
+    "title": "Master Eco Internal Medium Colours"
+  },
+  {
+    "url": "/product-category/paint/interior/hydrocontrol/",
+    "title": "Master Hydrocontrol Internal"
+  },
+  {
+    "url": "/product-category/wallpaper/play-of-life/",
+    "title": "Play of Life"
+  },
+  {
+    "url": "/product-category/paint/exterior/profi-external/",
+    "title": "Profi External"
+  },
+  {
+    "url": "/product-category/paint/exterior/profi-external/profi-external-light/",
+    "title": "Profi External Light Colors"
+  },
+  {
+    "url": "/product-category/paint/exterior/profi-external/profi-external-medium/",
+    "title": "Profi External Medium Colors"
+  },
+  {
+    "url": "/product-category/paint/interior/profi-internal/",
+    "title": "Profi Internal"
+  },
+  {
+    "url": "/product-category/paint/interior/profi-internal/profi-internal-light/",
+    "title": "Profi Internal Light Colours"
+  },
+  {
+    "url": "/product-category/paint/interior/profi-internal/profi-internal-medium/",
+    "title": "Profi Internal Medium Colours"
+  },
+  {
+    "url": "/product-category/uncategorised/",
+    "title": "Other products"
+  },
+  {
+    "url": "/product-category/wallpaper/",
+    "title": "Wallpaper"
+  },
+  {
+    "url": "/product-category/",
+    "title": "All product categories"
+  },
+  {
+    "url": "/product/focus/",
+    "title": "Focus"
+  },
+  {
+    "url": "/product/play-of-light/",
+    "title": "Play of Light"
+  },
+  {
+    "url": "/product/elle-decoration/",
+    "title": "Elle Decoration"
+  },
+  {
+    "url": "/product/casual-chic/",
+    "title": "casual chic"
+  },
+  {
+    "url": "/product/fashion-for-walls/",
+    "title": "fashion for walls"
+  },
+  {
+    "url": "/product/master-hydrocontrol-internal-white/",
+    "title": "Master Hydrocontrol Internal White"
+  },
+  {
+    "url": "/product/master-hydrocontrol-internal-light-off-whites-108-shades/",
+    "title": "Master Hydrocontrol Internal Light Off-Whites – 108 Shades"
+  },
+  {
+    "url": "/product/master-hinternal-light-reds-127-shades-copy/",
+    "title": "Master Hydrocontrol Internal Light Reds – 127 Shades"
+  },
+  {
+    "url": "/product/master-hydrocontrol-internal-light-oranges-130-shades/",
+    "title": "Master Hydrocontrol Internal Light Oranges – 130 Shades"
+  },
+  {
+    "url": "/product/master-hydrocontrol-internal-light-yellows-98-shades/",
+    "title": "Master Hydrocontrol Internal Light Yellows – 98 Shades"
+  },
+  {
+    "url": "/product/master-hydrocontrol-internal-light-greens-171-shades/",
+    "title": "Master Hydrocontrol Internal Light Greens – 171 Shades"
+  },
+  {
+    "url": "/product/master-hydrocontrol-internal-light-blues-134-shades/",
+    "title": "Master Hydrocontrol Internal Light Blues – 134 Shades"
+  },
+  {
+    "url": "/product/master-hydrocontrol-internal-light-purples-114-shades/",
+    "title": "Master Hydrocontrol Internal Light Purples – 114 Shades"
+  },
+  {
+    "url": "/product/master-hydrocontrol-internal-light-grey-53-shades/",
+    "title": "Master Hydrocontrol Internal Light Grey – 53 Shades"
+  },
+  {
+    "url": "/product/bartoline-wall-paper-adhesive/",
+    "title": "Premium Wall paper adhesive"
+  },
+  {
+    "url": "/product/red-master-internal-dark2/",
+    "title": "Master Internal Dark Muted Reds – 34 Shades"
+  },
+  {
+    "url": "/product/orange-master-internal-dark2/",
+    "title": "Master Internal Dark Muted Oranges – 82 Shades"
+  },
+  {
+    "url": "/product/yellow-master-internal-dark2/",
+    "title": "Master Internal Dark Muted Yellows – 20 Shades"
+  },
+  {
+    "url": "/product/green-master-internal-dark2/",
+    "title": "Master Internal Dark Muted Greens – 51 Shades"
+  },
+  {
+    "url": "/product/blue-master-internal-dark2/",
+    "title": "Master Internal Dark Muted Blues – 39 Shades"
+  },
+  {
+    "url": "/product/purple-master-internal-dark2/",
+    "title": "Master Internal Dark Muted Purples – 35 Shades"
+  },
+  {
+    "url": "/product/grey-master-internal-dark2/",
+    "title": "Master Internal Dark Muted Greys – 10 Shades"
+  },
+  {
+    "url": "/product/white-profi-external/",
+    "title": "Profi External White"
+  },
+  {
+    "url": "/product/magnolia-profi-external/",
+    "title": "Profi External Magnolia"
+  },
+  {
+    "url": "/product/white-master-internal/",
+    "title": "Master Internal White"
+  },
+  {
+    "url": "/product/white-profi-internal/",
+    "title": "Profi Internal White"
+  },
+  {
+    "url": "/product/grey-4-seasons-acrylic-external-dark2/",
+    "title": "4 Seasons Acrylic External Dark Muted Greys – 9 Shades"
+  },
+  {
+    "url": "/product/purple-4-seasons-acrylic-external-dark2/",
+    "title": "4 Seasons Acrylic External Dark Muted Purples – 10 Shades"
+  },
+  {
+    "url": "/product/orange-4-seasons-acrylic-external-dark2/",
+    "title": "4 Seasons Acrylic External Dark Muted Oranges – 21 Shades"
+  },
+  {
+    "url": "/product/red-4-seasons-acrylic-external-dark2/",
+    "title": "4 Seasons Acrylic External Dark Muted Reds – 14 Shades"
+  },
+  {
+    "url": "/product/blue-4-seasons-acrylic-external-dark2/",
+    "title": "4 Seasons Acrylic External Dark Muted Blues – 28 Shades"
+  },
+  {
+    "url": "/product/green-4-seasons-acrylic-external-dark2/",
+    "title": "4 Seasons Acrylic External Dark Muted Greens – 32 Shades"
+  },
+  {
+    "url": "/product/yellow-4-seasons-acrylic-external-dark2/",
+    "title": "4 Seasons Acrylic External Dark Muted Yellows – 14 Shades"
+  },
+  {
+    "url": "/product/grey-4-seasons-acrylic-external-dark/",
+    "title": "4 Seasons Acrylic External Dark Vivid Greys – 13 Shades"
+  },
+  {
+    "url": "/product/red-4-seasons-acrylic-external-dark/",
+    "title": "4 Seasons Acrylic External Dark Vivid Reds – 4 Shades"
+  },
+  {
+    "url": "/product/purple-4-seasons-acrylic-external-dark/",
+    "title": "4 Seasons Acrylic External Dark Vivid Purples – 6 Shades"
+  },
+  {
+    "url": "/product/orange-4-seasons-acrylic-external-dark/",
+    "title": "4 Seasons Acrylic External Dark Vivid Oranges – 26 Shades"
+  },
+  {
+    "url": "/product/blue-4-seasons-acrylic-external-dark/",
+    "title": "4 Seasons Acrylic External Dark Vivid Blues – 36 Shades"
+  },
+  {
+    "url": "/product/green-4-seasons-acrylic-external-dark/",
+    "title": "4 Seasons Acrylic External Dark Vivid Greens – 48 Shades"
+  },
+  {
+    "url": "/product/yellow-4-seasons-acrylic-external-dark/",
+    "title": "4 Seasons Acrylic External Dark Vivid Yellows – 20 Shades"
+  },
+  {
+    "url": "/product/grey-4-seasons-acrylic-external-medium/",
+    "title": "4 Seasons Acrylic External Medium Greys – 16 Shades"
+  },
+  {
+    "url": "/product/purple-4-seasons-acrylic-external-medium/",
+    "title": "4 Seasons Acrylic External Medium Purples – 12 Shades"
+  },
+  {
+    "url": "/product/orange-4-seasons-acrylic-external-medium/",
+    "title": "4 Seasons Acrylic External Medium Oranges – 35 Shades"
+  },
+  {
+    "url": "/product/red-4-seasons-acrylic-external-medium/",
+    "title": "4 Seasons Acrylic External Medium Reds – 13 Shades"
+  },
+  {
+    "url": "/product/blue-4-seasons-acrylic-external-medium/",
+    "title": "4 Seasons Acrylic External Medium Blues – 38 Shades"
+  },
+  {
+    "url": "/product/green-4-seasons-acrylic-external-medium/",
+    "title": "4 Seasons Acrylic External Medium Greens – 59 Shades"
+  },
+  {
+    "url": "/product/yellow-4-seasons-acrylic-external-medium/",
+    "title": "4 Seasons Acrylic External Medium Yellows – 26 Shades"
+  },
+  {
+    "url": "/product/red-4-seasons-acrylic-external-light/",
+    "title": "4 Seasons Acrylic External Light Reds – 46 Shades"
+  },
+  {
+    "url": "/product/grey-4-seasons-acrylic-external-light/",
+    "title": "4 Seasons Acrylic External Light Greys – 49 Shades"
+  },
+  {
+    "url": "/product/purple-4-seasons-acrylic-external-light/",
+    "title": "4 Seasons Acrylic External Light Purples – 16 Shades"
+  },
+  {
+    "url": "/product/blue-4-seasons-acrylic-external-light/",
+    "title": "4 Seasons Acrylic External Light Blues – 61 Shades"
+  },
+  {
+    "url": "/product/green-4-seasons-acrylic-external-light/",
+    "title": "4 Seasons Acrylic External Light Greens – 112 Shades"
+  },
+  {
+    "url": "/product/yellow-4-seasons-acrylic-external-light/",
+    "title": "4 Seasons Acrylic External Light Yellows – 89 Shades"
+  },
+  {
+    "url": "/product/orange-4-seasons-acrylic-external-light/",
+    "title": "4 Seasons Acrylic External Light Oranges – 109 Shades"
+  },
+  {
+    "url": "/product/off-white-4-seasons-acrylic-external-light/",
+    "title": "4 Seasons Acrylic External Light Off-Whites – 108 Shades"
+  },
+  {
+    "url": "/product/grey-4-seasons-elastic-external-light/",
+    "title": "4 Seasons Elastic External Light Greys – 50 Shades"
+  },
+  {
+    "url": "/product/purple-4-seasons-elastic-external-light/",
+    "title": "4 Seasons Elastic External Light Purples – 16 Shades"
+  },
+  {
+    "url": "/product/blue-4seasons-elastic-external-light/",
+    "title": "4 Seasons Elastic External Light Blues – 61 Shades"
+  },
+  {
+    "url": "/product/green-4seasons-elastic-external-light/",
+    "title": "4 Seasons Elastic External Light Green – 112 Shades"
+  },
+  {
+    "url": "/product/yellow-4seasons-elastic-external-light/",
+    "title": "4 Seasons Elastic External Light Yellows – 89 Shades"
+  },
+  {
+    "url": "/product/orange-4seasons-elastic-external-light/",
+    "title": "4 Seasons Elastic External Light Oranges – 109 Shades"
+  },
+  {
+    "url": "/product/red-4seasons-elastic-external-light/",
+    "title": "4 Seasons Elastic External Light Reds – 46 Shades"
+  },
+  {
+    "url": "/product/off-white-4seasons-elastic-external-light/",
+    "title": "4 Seasons Elastic External Light Off-Whites – 108 Shades"
+  },
+  {
+    "url": "/product/grey-profi-external-medium/",
+    "title": "Profi External Medium Greys – 26 Shades"
+  },
+  {
+    "url": "/product/purple-profi-external-medium/",
+    "title": "Profi External Medium Purples – 58 Shades"
+  },
+  {
+    "url": "/product/blue-profi-external-medium/",
+    "title": "Profi External Medium Blues – 95 Shades"
+  },
+  {
+    "url": "/product/green-profi-external-medium/",
+    "title": "Profi External Medium Greens – 103 Shades"
+  },
+  {
+    "url": "/product/yellow-profi-external-medium/",
+    "title": "Profi External Medium Yellows – 46 Shades"
+  },
+  {
+    "url": "/product/orange-profi-external-medium/",
+    "title": "Profi External Medium Oranges – 77 Shades"
+  },
+  {
+    "url": "/product/red-profi-external-medium/",
+    "title": "Profi External Medium Reds – 61 Shades"
+  },
+  {
+    "url": "/product/grey-profi-external-light/",
+    "title": "Profi External Light Greys – 58 Shades"
+  },
+  {
+    "url": "/product/purple-profi-external-light/",
+    "title": "Profi External Light Purples – 136 Shades"
+  },
+  {
+    "url": "/product/blue-profi-external-light/",
+    "title": "Profi External Light Blues – 152 Shades"
+  },
+  {
+    "url": "/product/green-profi-external-light/",
+    "title": "Profi External Light Greens – 201 Shades"
+  },
+  {
+    "url": "/product/yellow-profi-external-light/",
+    "title": "Profi External Light Yellow – 111 Shades"
+  },
+  {
+    "url": "/product/orange-profi-external-light/",
+    "title": "Profi External Light Oranges – 162 Shades"
+  },
+  {
+    "url": "/product/red-profi-external-light/",
+    "title": "Profi External Light Reds – 153 Shades"
+  },
+  {
+    "url": "/product/off-white-profi-external-light/",
+    "title": "Profi External Light Off-Whites – 108 Shades"
+  },
+  {
+    "url": "/product/grey-master-internal-dark/",
+    "title": "Master Internal Dark Vivid Greys – 13 Shades"
+  },
+  {
+    "url": "/product/purple-master-internal-dark/",
+    "title": "Master Internal Dark Vivid Purples – 30 Shades"
+  },
+  {
+    "url": "/product/blue-master-internal-dark/",
+    "title": "Master Internal Dark Vivid Blues – 36 Shades"
+  },
+  {
+    "url": "/product/green-master-internal-dark/",
+    "title": "Master Internal Dark Vivid Green – 52 Shades"
+  },
+  {
+    "url": "/product/yellow-master-internal-dark/",
+    "title": "Master Internal Dark Vivid Yellow – 26 Shades"
+  },
+  {
+    "url": "/product/orange-master-internal-dark/",
+    "title": "Master Internal Dark Vivid Oranges – 43 Shades"
+  },
+  {
+    "url": "/product/red-master-internal-dark/",
+    "title": "Master Internal Dark Vivid Reds – 43 Shades"
+  },
+  {
+    "url": "/product/grey-master-internal-medium/",
+    "title": "Master Internal Medium Greys – 15 Shades"
+  },
+  {
+    "url": "/product/purple-master-internal-medium/",
+    "title": "Master Internal Medium Purples – 45 Shades"
+  },
+  {
+    "url": "/product/blue-master-internal-medium/",
+    "title": "Master Internal Medium Blues – 48 Shades"
+  },
+  {
+    "url": "/product/green-master-internal-medium/",
+    "title": "Master Internal Medium Greens – 78 Shades"
+  },
+  {
+    "url": "/product/yellow-master-internal-medium/",
+    "title": "Master Internal Medium Yellows – 33 Shades"
+  },
+  {
+    "url": "/product/orange-master-internal-medium/",
+    "title": "Master Internal Medium Oranges – 58 Shades"
+  },
+  {
+    "url": "/product/red-master-internal-medium/",
+    "title": "Master Internal Medium Reds – 50 Shades"
+  },
+  {
+    "url": "/product/grey-master-internal-light/",
+    "title": "Master Internal Light Grey – 53 Shades"
+  },
+  {
+    "url": "/product/purple-master-internal-light/",
+    "title": "Master Internal Light Purples – 114 Shades"
+  },
+  {
+    "url": "/product/blue-master-internal-light/",
+    "title": "Master Internal Light Blues – 134 Shades"
+  },
+  {
+    "url": "/product/green-master/",
+    "title": "Master Internal Light Greens – 171 Shades"
+  },
+  {
+    "url": "/product/yellow-master-internal-light/",
+    "title": "Master Internal Light Yellows – 98 Shades"
+  },
+  {
+    "url": "/product/orange-master-internal-light/",
+    "title": "Master Internal Light Oranges – 130 Shades"
+  },
+  {
+    "url": "/product/red-master-internal-light/",
+    "title": "Master Internal Light Reds – 127 Shades"
+  },
+  {
+    "url": "/product/off-white-master-internal-light/",
+    "title": "Master Internal Light Off-Whites – 108 Shades"
+  },
+  {
+    "url": "/product/grey-profi-internal-medium/",
+    "title": "Profi Internal Medium Greys – 26 Shades"
+  },
+  {
+    "url": "/product/purple-profi-internal-medium/",
+    "title": "Profi Internal Medium Purples – 58 Shades"
+  },
+  {
+    "url": "/product/blue-profi-internal-medium/",
+    "title": "Profi Internal Medium Blues – 95 Shades"
+  },
+  {
+    "url": "/product/green-profi-internal-medium/",
+    "title": "Profi Internal Medium Greens – 105 Shades"
+  },
+  {
+    "url": "/product/yellow-profi-internal-medium/",
+    "title": "Profi Internal Medium Yellows – 46 Shades"
+  },
+  {
+    "url": "/product/orange-profi-internal-medium/",
+    "title": "Profi Internal Medium Oranges – 77 Shades"
+  },
+  {
+    "url": "/product/red-profi-internal-medium/",
+    "title": "Profi Internal Medium Reds – 61 Shades"
+  },
+  {
+    "url": "/product/off-white-profi-internal-light/",
+    "title": "Profi Internal Light Off-Whites – 108 Shades"
+  },
+  {
+    "url": "/product/grey-profi-internal-light/",
+    "title": "Profi Internal Light Greys – 57 Shades"
+  },
+  {
+    "url": "/product/yellow-profi-internal-light/",
+    "title": "Profi Internal Light Yellow – 110 Shades"
+  },
+  {
+    "url": "/product/orange-profi-internal-light/",
+    "title": "Profi Internal Light Oranges – 162 Shades"
+  },
+  {
+    "url": "/product/purple-profi-internal/",
+    "title": "Profi Internal Light Purples – 135 Shades"
+  },
+  {
+    "url": "/product/blue-profi-internal-light/",
+    "title": "Profi Internal Light Blues – 152 Shades"
+  },
+  {
+    "url": "/product/green-profi-internal-light/",
+    "title": "Profi Internal Light Green – 202 Shades"
+  },
+  {
+    "url": "/product/red-profi-internal-light/",
+    "title": "Profi Internal Light Reds – 153 Shades"
+  },
+  {
+    "url": "/journal/",
+    "title": "The Evolve journal"
+  },
+  {
+    "url": "/category/blog/",
+    "title": "The Evolve journal"
+  },
+  {
+    "url": "/2022/07/how-to-add-life-to-your-walls/",
+    "title": "How to add life to your walls?"
+  },
+  {
+    "url": "/2022/02/different-types-of-gypsum-boards/",
+    "title": "Different types of gypsum boards"
+  },
+  {
+    "url": "/2022/02/how-to-pick-the-perfect-paint-colour-for-your-bedroom/",
+    "title": "How to pick the perfect paint colour for your bedroom"
+  },
+  {
+    "url": "/2022/02/exterior-sheeting-what-is-it-and-why-is-it-used/",
+    "title": "Exterior sheeting: what is it and why is it used."
   }
 ]

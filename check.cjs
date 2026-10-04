@@ -5,4 +5,18 @@ for(const {url} of pages){const f=url==='/404/'?'404.html':path.join(url,'index.
  if((html.match(/<h1[ >]/g)||[]).length!==1)errors.push(url+' requires one h1');
  if(!html.includes('name="description"'))errors.push(url+' missing description');
 }
-if(errors.length){console.error(errors.join('\n'));process.exit(1)}console.log(`PASS: ${pages.length} pages; ${checked} local asset and navigation references; unique page headings and descriptions.`);
+const catalog=require('./data/catalog.json');
+for(const source of catalog.requested)if(!pages.some(p=>p.url===source.path))errors.push('Missing source route '+source.path);
+for(const product of catalog.products){
+ if(!pages.some(p=>p.url===product.path))errors.push('Missing product '+product.id);
+ for(const variant of product.variants){
+  if(variant.price===null)errors.push('Missing variant price '+variant.id);
+  for(const [key,value] of Object.entries(variant.attributes)){
+   const attribute=product.attributes.find(a=>a.key===key);
+   if(!attribute||(value&&!attribute.values.some(v=>v.value===value)))errors.push('Invalid source variant attribute '+variant.id+' '+key);
+  }
+  if(variant.image&&!fs.existsSync(path.join(__dirname,variant.image)))errors.push('Missing variant image '+variant.id);
+ }
+}
+for(const category of catalog.categories)if(category.productIds.length!==category.sourceCount)errors.push('Category count differs from source '+category.name);
+if(errors.length){console.error(errors.join('\n'));process.exit(1)}console.log(`PASS: ${pages.length} pages; ${checked} local asset and navigation references; ${catalog.requested.length} source URLs; complete product variants and category counts.`);

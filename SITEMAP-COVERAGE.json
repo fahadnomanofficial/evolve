@@ -1,0 +1,1104 @@
+{
+  "auditedAt": "2026-10-04",
+  "source": "https://www.evolve.com.mt/sitemap_index.xml",
+  "sourceUrls": 182,
+  "products": 115,
+  "categories": 29,
+  "articles": 4,
+  "variants": 525,
+  "missing": [],
+  "pages": [
+    {
+      "url": "https://www.evolve.com.mt/2022/02/exterior-sheeting-what-is-it-and-why-is-it-used/",
+      "path": "/2022/02/exterior-sheeting-what-is-it-and-why-is-it-used/",
+      "type": "post",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/2022/02/how-to-pick-the-perfect-paint-colour-for-your-bedroom/",
+      "path": "/2022/02/how-to-pick-the-perfect-paint-colour-for-your-bedroom/",
+      "type": "post",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/2022/02/different-types-of-gypsum-boards/",
+      "path": "/2022/02/different-types-of-gypsum-boards/",
+      "type": "post",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/2022/07/how-to-add-life-to-your-walls/",
+      "path": "/2022/07/how-to-add-life-to-your-walls/",
+      "type": "post",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/",
+      "path": "/",
+      "type": "page",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/basket/",
+      "path": "/basket/",
+      "type": "page",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/clients/",
+      "path": "/clients/",
+      "type": "page",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/checkout/",
+      "path": "/checkout/",
+      "type": "page",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/paint-fandeck/",
+      "path": "/paint-fandeck/",
+      "type": "page",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/paint-disclaimer/",
+      "path": "/paint-disclaimer/",
+      "type": "page",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/products/acoustic-solutions-malta/",
+      "path": "/products/acoustic-solutions-malta/",
+      "type": "page",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/projects/",
+      "path": "/projects/",
+      "type": "page",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/testimonials/",
+      "path": "/testimonials/",
+      "type": "page",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/products/",
+      "path": "/products/",
+      "type": "page",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/products/flooring/",
+      "path": "/products/flooring/",
+      "type": "page",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/products/lighting-malta/",
+      "path": "/products/lighting-malta/",
+      "type": "page",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/products/insulation-acoustic-solutions/",
+      "path": "/products/insulation-acoustic-solutions/",
+      "type": "page",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/products/paint-and-membrane-malta/",
+      "path": "/products/paint-and-membrane-malta/",
+      "type": "page",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/products/paint-malta/",
+      "path": "/products/paint-malta/",
+      "type": "page",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/products/ceiling-tiles-malta/",
+      "path": "/products/ceiling-tiles-malta/",
+      "type": "page",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/products/gypsum-plaster-malta-home-office/",
+      "path": "/products/gypsum-plaster-malta-home-office/",
+      "type": "page",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/products/gypsum-malta-home-office/",
+      "path": "/products/gypsum-malta-home-office/",
+      "type": "page",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/online-shop/",
+      "path": "/online-shop/",
+      "type": "page",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/products/thermal-insulation/",
+      "path": "/products/thermal-insulation/",
+      "type": "page",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/products/vinyl-flooring/",
+      "path": "/products/vinyl-flooring/",
+      "type": "page",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/products/parquet-flooring/",
+      "path": "/products/parquet-flooring/",
+      "type": "page",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/products/laminate-flooring/",
+      "path": "/products/laminate-flooring/",
+      "type": "page",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/products/artificial-turf/",
+      "path": "/products/artificial-turf/",
+      "type": "page",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/products/decking/",
+      "path": "/products/decking/",
+      "type": "page",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/products/membrane/",
+      "path": "/products/membrane/",
+      "type": "page",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/products/green-walls/",
+      "path": "/products/green-walls/",
+      "type": "page",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/products/3d-walls/",
+      "path": "/products/3d-walls/",
+      "type": "page",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/products/wall-sheeting/",
+      "path": "/products/wall-sheeting/",
+      "type": "page",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/products/wall-decor-malta/",
+      "path": "/products/wall-decor-malta/",
+      "type": "page",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/contact/",
+      "path": "/contact/",
+      "type": "page",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/services/",
+      "path": "/services/",
+      "type": "page",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/shop/",
+      "path": "/shop/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/off-white-master-internal-light/",
+      "path": "/product/off-white-master-internal-light/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/magnolia-profi-external/",
+      "path": "/product/magnolia-profi-external/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/yellow-4seasons-elastic-external-light/",
+      "path": "/product/yellow-4seasons-elastic-external-light/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/orange-4seasons-elastic-external-light/",
+      "path": "/product/orange-4seasons-elastic-external-light/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/red-4seasons-elastic-external-light/",
+      "path": "/product/red-4seasons-elastic-external-light/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/off-white-4seasons-elastic-external-light/",
+      "path": "/product/off-white-4seasons-elastic-external-light/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/master-hydrocontrol-internal-white/",
+      "path": "/product/master-hydrocontrol-internal-white/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/bartoline-wall-paper-adhesive/",
+      "path": "/product/bartoline-wall-paper-adhesive/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/red-master-internal-dark2/",
+      "path": "/product/red-master-internal-dark2/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/orange-master-internal-dark2/",
+      "path": "/product/orange-master-internal-dark2/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/yellow-master-internal-dark2/",
+      "path": "/product/yellow-master-internal-dark2/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/green-master-internal-dark2/",
+      "path": "/product/green-master-internal-dark2/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/blue-master-internal-dark2/",
+      "path": "/product/blue-master-internal-dark2/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/purple-master-internal-dark2/",
+      "path": "/product/purple-master-internal-dark2/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/grey-master-internal-dark2/",
+      "path": "/product/grey-master-internal-dark2/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/white-profi-external/",
+      "path": "/product/white-profi-external/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/master-hydrocontrol-internal-light-off-whites-108-shades/",
+      "path": "/product/master-hydrocontrol-internal-light-off-whites-108-shades/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/master-hinternal-light-reds-127-shades-copy/",
+      "path": "/product/master-hinternal-light-reds-127-shades-copy/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/master-hydrocontrol-internal-light-oranges-130-shades/",
+      "path": "/product/master-hydrocontrol-internal-light-oranges-130-shades/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/master-hydrocontrol-internal-light-yellows-98-shades/",
+      "path": "/product/master-hydrocontrol-internal-light-yellows-98-shades/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/master-hydrocontrol-internal-light-greens-171-shades/",
+      "path": "/product/master-hydrocontrol-internal-light-greens-171-shades/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/master-hydrocontrol-internal-light-blues-134-shades/",
+      "path": "/product/master-hydrocontrol-internal-light-blues-134-shades/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/master-hydrocontrol-internal-light-purples-114-shades/",
+      "path": "/product/master-hydrocontrol-internal-light-purples-114-shades/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/master-hydrocontrol-internal-light-grey-53-shades/",
+      "path": "/product/master-hydrocontrol-internal-light-grey-53-shades/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/white-profi-internal/",
+      "path": "/product/white-profi-internal/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/grey-4-seasons-acrylic-external-dark2/",
+      "path": "/product/grey-4-seasons-acrylic-external-dark2/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/purple-4-seasons-acrylic-external-dark2/",
+      "path": "/product/purple-4-seasons-acrylic-external-dark2/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/orange-4-seasons-acrylic-external-dark2/",
+      "path": "/product/orange-4-seasons-acrylic-external-dark2/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/red-4-seasons-acrylic-external-dark2/",
+      "path": "/product/red-4-seasons-acrylic-external-dark2/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/blue-4-seasons-acrylic-external-dark2/",
+      "path": "/product/blue-4-seasons-acrylic-external-dark2/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/green-4-seasons-acrylic-external-dark2/",
+      "path": "/product/green-4-seasons-acrylic-external-dark2/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/yellow-4-seasons-acrylic-external-dark2/",
+      "path": "/product/yellow-4-seasons-acrylic-external-dark2/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/grey-4-seasons-acrylic-external-dark/",
+      "path": "/product/grey-4-seasons-acrylic-external-dark/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/red-4-seasons-acrylic-external-dark/",
+      "path": "/product/red-4-seasons-acrylic-external-dark/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/purple-4-seasons-acrylic-external-dark/",
+      "path": "/product/purple-4-seasons-acrylic-external-dark/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/orange-4-seasons-acrylic-external-dark/",
+      "path": "/product/orange-4-seasons-acrylic-external-dark/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/blue-4-seasons-acrylic-external-dark/",
+      "path": "/product/blue-4-seasons-acrylic-external-dark/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/green-4-seasons-acrylic-external-dark/",
+      "path": "/product/green-4-seasons-acrylic-external-dark/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/yellow-4-seasons-acrylic-external-dark/",
+      "path": "/product/yellow-4-seasons-acrylic-external-dark/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/grey-4-seasons-acrylic-external-medium/",
+      "path": "/product/grey-4-seasons-acrylic-external-medium/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/purple-4-seasons-acrylic-external-medium/",
+      "path": "/product/purple-4-seasons-acrylic-external-medium/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/orange-4-seasons-acrylic-external-medium/",
+      "path": "/product/orange-4-seasons-acrylic-external-medium/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/red-4-seasons-acrylic-external-medium/",
+      "path": "/product/red-4-seasons-acrylic-external-medium/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/blue-4-seasons-acrylic-external-medium/",
+      "path": "/product/blue-4-seasons-acrylic-external-medium/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/green-4-seasons-acrylic-external-medium/",
+      "path": "/product/green-4-seasons-acrylic-external-medium/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/yellow-4-seasons-acrylic-external-medium/",
+      "path": "/product/yellow-4-seasons-acrylic-external-medium/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/red-4-seasons-acrylic-external-light/",
+      "path": "/product/red-4-seasons-acrylic-external-light/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/grey-4-seasons-acrylic-external-light/",
+      "path": "/product/grey-4-seasons-acrylic-external-light/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/purple-4-seasons-acrylic-external-light/",
+      "path": "/product/purple-4-seasons-acrylic-external-light/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/blue-4-seasons-acrylic-external-light/",
+      "path": "/product/blue-4-seasons-acrylic-external-light/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/green-4-seasons-acrylic-external-light/",
+      "path": "/product/green-4-seasons-acrylic-external-light/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/yellow-4-seasons-acrylic-external-light/",
+      "path": "/product/yellow-4-seasons-acrylic-external-light/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/orange-4-seasons-acrylic-external-light/",
+      "path": "/product/orange-4-seasons-acrylic-external-light/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/off-white-4-seasons-acrylic-external-light/",
+      "path": "/product/off-white-4-seasons-acrylic-external-light/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/grey-4-seasons-elastic-external-light/",
+      "path": "/product/grey-4-seasons-elastic-external-light/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/purple-4-seasons-elastic-external-light/",
+      "path": "/product/purple-4-seasons-elastic-external-light/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/blue-4seasons-elastic-external-light/",
+      "path": "/product/blue-4seasons-elastic-external-light/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/green-4seasons-elastic-external-light/",
+      "path": "/product/green-4seasons-elastic-external-light/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/purple-profi-external-medium/",
+      "path": "/product/purple-profi-external-medium/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/grey-profi-external-medium/",
+      "path": "/product/grey-profi-external-medium/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/blue-profi-external-medium/",
+      "path": "/product/blue-profi-external-medium/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/green-profi-external-medium/",
+      "path": "/product/green-profi-external-medium/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/yellow-profi-external-medium/",
+      "path": "/product/yellow-profi-external-medium/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/orange-profi-external-medium/",
+      "path": "/product/orange-profi-external-medium/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/red-profi-external-medium/",
+      "path": "/product/red-profi-external-medium/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/grey-profi-external-light/",
+      "path": "/product/grey-profi-external-light/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/purple-profi-external-light/",
+      "path": "/product/purple-profi-external-light/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/blue-profi-external-light/",
+      "path": "/product/blue-profi-external-light/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/green-profi-external-light/",
+      "path": "/product/green-profi-external-light/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/yellow-profi-external-light/",
+      "path": "/product/yellow-profi-external-light/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/orange-profi-external-light/",
+      "path": "/product/orange-profi-external-light/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/red-profi-external-light/",
+      "path": "/product/red-profi-external-light/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/off-white-profi-external-light/",
+      "path": "/product/off-white-profi-external-light/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/grey-master-internal-dark/",
+      "path": "/product/grey-master-internal-dark/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/purple-master-internal-dark/",
+      "path": "/product/purple-master-internal-dark/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/blue-master-internal-dark/",
+      "path": "/product/blue-master-internal-dark/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/green-master-internal-dark/",
+      "path": "/product/green-master-internal-dark/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/yellow-master-internal-dark/",
+      "path": "/product/yellow-master-internal-dark/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/orange-master-internal-dark/",
+      "path": "/product/orange-master-internal-dark/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/red-master-internal-dark/",
+      "path": "/product/red-master-internal-dark/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/grey-master-internal-medium/",
+      "path": "/product/grey-master-internal-medium/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/purple-master-internal-medium/",
+      "path": "/product/purple-master-internal-medium/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/blue-master-internal-medium/",
+      "path": "/product/blue-master-internal-medium/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/green-master-internal-medium/",
+      "path": "/product/green-master-internal-medium/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/yellow-master-internal-medium/",
+      "path": "/product/yellow-master-internal-medium/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/orange-master-internal-medium/",
+      "path": "/product/orange-master-internal-medium/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/red-master-internal-medium/",
+      "path": "/product/red-master-internal-medium/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/grey-master-internal-light/",
+      "path": "/product/grey-master-internal-light/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/purple-master-internal-light/",
+      "path": "/product/purple-master-internal-light/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/blue-master-internal-light/",
+      "path": "/product/blue-master-internal-light/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/green-master/",
+      "path": "/product/green-master/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/yellow-master-internal-light/",
+      "path": "/product/yellow-master-internal-light/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/orange-master-internal-light/",
+      "path": "/product/orange-master-internal-light/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/red-master-internal-light/",
+      "path": "/product/red-master-internal-light/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/white-master-internal/",
+      "path": "/product/white-master-internal/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/grey-profi-internal-medium/",
+      "path": "/product/grey-profi-internal-medium/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/purple-profi-internal-medium/",
+      "path": "/product/purple-profi-internal-medium/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/blue-profi-internal-medium/",
+      "path": "/product/blue-profi-internal-medium/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/green-profi-internal-medium/",
+      "path": "/product/green-profi-internal-medium/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/yellow-profi-internal-medium/",
+      "path": "/product/yellow-profi-internal-medium/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/orange-profi-internal-medium/",
+      "path": "/product/orange-profi-internal-medium/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/red-profi-internal-medium/",
+      "path": "/product/red-profi-internal-medium/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/off-white-profi-internal-light/",
+      "path": "/product/off-white-profi-internal-light/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/grey-profi-internal-light/",
+      "path": "/product/grey-profi-internal-light/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/yellow-profi-internal-light/",
+      "path": "/product/yellow-profi-internal-light/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/orange-profi-internal-light/",
+      "path": "/product/orange-profi-internal-light/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/purple-profi-internal/",
+      "path": "/product/purple-profi-internal/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/blue-profi-internal-light/",
+      "path": "/product/blue-profi-internal-light/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/green-profi-internal-light/",
+      "path": "/product/green-profi-internal-light/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/red-profi-internal-light/",
+      "path": "/product/red-profi-internal-light/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/fashion-for-walls/",
+      "path": "/product/fashion-for-walls/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/elle-decoration/",
+      "path": "/product/elle-decoration/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/play-of-light/",
+      "path": "/product/play-of-light/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/focus/",
+      "path": "/product/focus/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product/casual-chic/",
+      "path": "/product/casual-chic/",
+      "type": "product",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/category/blog/",
+      "path": "/category/blog/",
+      "type": "category",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product-category/uncategorised/",
+      "path": "/product-category/uncategorised/",
+      "type": "product_cat",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product-category/paint/exterior/4-seasons-acrylic/",
+      "path": "/product-category/paint/exterior/4-seasons-acrylic/",
+      "type": "product_cat",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product-category/paint/exterior/4-seasons-acrylic/4-seasons-acrylic-external-dark2/",
+      "path": "/product-category/paint/exterior/4-seasons-acrylic/4-seasons-acrylic-external-dark2/",
+      "type": "product_cat",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product-category/paint/exterior/4-seasons-acrylic/4-seasons-acrylic-external-dark/",
+      "path": "/product-category/paint/exterior/4-seasons-acrylic/4-seasons-acrylic-external-dark/",
+      "type": "product_cat",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product-category/paint/exterior/4-seasons-acrylic/4-seasons-acrylic-external-light/",
+      "path": "/product-category/paint/exterior/4-seasons-acrylic/4-seasons-acrylic-external-light/",
+      "type": "product_cat",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product-category/paint/exterior/4-seasons-acrylic/4-seasons-acrylic-external-medium/",
+      "path": "/product-category/paint/exterior/4-seasons-acrylic/4-seasons-acrylic-external-medium/",
+      "type": "product_cat",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product-category/paint/exterior/4-seasons-elastic/",
+      "path": "/product-category/paint/exterior/4-seasons-elastic/",
+      "type": "product_cat",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product-category/uncategorised/accessories/",
+      "path": "/product-category/uncategorised/accessories/",
+      "type": "product_cat",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product-category/wallpaper/cashual-chic/",
+      "path": "/product-category/wallpaper/cashual-chic/",
+      "type": "product_cat",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product-category/wallpaper/elle-decorations-3/",
+      "path": "/product-category/wallpaper/elle-decorations-3/",
+      "type": "product_cat",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product-category/paint/exterior/",
+      "path": "/product-category/paint/exterior/",
+      "type": "product_cat",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product-category/wallpaper/fashion-for-walls/",
+      "path": "/product-category/wallpaper/fashion-for-walls/",
+      "type": "product_cat",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product-category/wallpaper/focus/",
+      "path": "/product-category/wallpaper/focus/",
+      "type": "product_cat",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product-category/paint/interior/",
+      "path": "/product-category/paint/interior/",
+      "type": "product_cat",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product-category/paint/",
+      "path": "/product-category/paint/",
+      "type": "product_cat",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product-category/paint/interior/master-eco-internal/",
+      "path": "/product-category/paint/interior/master-eco-internal/",
+      "type": "product_cat",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product-category/paint/interior/master-eco-internal/master-eco-internal-dark2/",
+      "path": "/product-category/paint/interior/master-eco-internal/master-eco-internal-dark2/",
+      "type": "product_cat",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product-category/paint/interior/master-eco-internal/master-eco-internal-dark/",
+      "path": "/product-category/paint/interior/master-eco-internal/master-eco-internal-dark/",
+      "type": "product_cat",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product-category/paint/interior/master-eco-internal/master-eco-internal-light/",
+      "path": "/product-category/paint/interior/master-eco-internal/master-eco-internal-light/",
+      "type": "product_cat",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product-category/paint/interior/master-eco-internal/master-eco-internal-medium/",
+      "path": "/product-category/paint/interior/master-eco-internal/master-eco-internal-medium/",
+      "type": "product_cat",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product-category/paint/interior/hydrocontrol/",
+      "path": "/product-category/paint/interior/hydrocontrol/",
+      "type": "product_cat",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product-category/wallpaper/play-of-life/",
+      "path": "/product-category/wallpaper/play-of-life/",
+      "type": "product_cat",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product-category/paint/exterior/profi-external/",
+      "path": "/product-category/paint/exterior/profi-external/",
+      "type": "product_cat",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product-category/paint/exterior/profi-external/profi-external-light/",
+      "path": "/product-category/paint/exterior/profi-external/profi-external-light/",
+      "type": "product_cat",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product-category/paint/exterior/profi-external/profi-external-medium/",
+      "path": "/product-category/paint/exterior/profi-external/profi-external-medium/",
+      "type": "product_cat",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product-category/paint/interior/profi-internal/",
+      "path": "/product-category/paint/interior/profi-internal/",
+      "type": "product_cat",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product-category/paint/interior/profi-internal/profi-internal-light/",
+      "path": "/product-category/paint/interior/profi-internal/profi-internal-light/",
+      "type": "product_cat",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product-category/paint/interior/profi-internal/profi-internal-medium/",
+      "path": "/product-category/paint/interior/profi-internal/profi-internal-medium/",
+      "type": "product_cat",
+      "implemented": true
+    },
+    {
+      "url": "https://www.evolve.com.mt/product-category/wallpaper/",
+      "path": "/product-category/wallpaper/",
+      "type": "product_cat",
+      "implemented": true
+    }
+  ]
+}

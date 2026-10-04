@@ -14,6 +14,6 @@ for (const { url } of routes) {
   fs.mkdirSync(path.dirname(destination), { recursive: true });
   fs.copyFileSync(path.join(root, relative), destination);
 }
-for (const file of ['styles.css', 'app.js', 'favicon.svg', 'robots.txt', 'sitemap.xml']) fs.copyFileSync(path.join(root, file), path.join(output, file));
+for (const file of ['styles.css', 'app.js', 'catalogue.css', 'catalogue.js', 'favicon.svg', 'robots.txt', 'sitemap.xml']) fs.copyFileSync(path.join(root, file), path.join(output, file));
 fs.cpSync(path.join(root, 'assets'), path.join(output, 'assets'), { recursive: true });
 console.log(`Exported ${routes.length} pages and public assets to dist/.`);
